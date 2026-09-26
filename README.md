@@ -1,5 +1,8 @@
-### Connor Day
+```
+connor day
+data science @ uc san diego
 
-Data Science student at UC San Diego
+python, statistical analysis and modeling.
+```
 
-- [connor.day](https://connor.day): project write-ups
+[connor.day](https://connor.day)
